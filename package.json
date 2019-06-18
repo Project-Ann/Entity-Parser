@@ -1,0 +1,33 @@
+{
+  "name": "entity-parser",
+  "version": "1.0.0",
+  "description": "Entity parser for DialogEngine",
+  "main": "./src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Ann/Entity-Parser.git"
+  },
+  "keywords": [
+    "parser",
+    "entity",
+    "entity-parser"
+  ],
+  "author": "Project Ann: Ahmetcan Aksu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Project-Ann/Entity-Parser/issues"
+  },
+  "homepage": "https://github.com/Project-Ann/Entity-Parser#readme",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1",
+    "should": "^13.2.3"
+  }
+}
