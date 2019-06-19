@@ -1,6 +1,6 @@
 {
   "name": "entity-parser",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "Entity parser for DialogEngine",
   "main": "./src/index.js",
   "directories": {
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/Project-Ann/Entity-Parser#readme",
   "dependencies": {
-    "balanced-match": "^1.0.0",
     "mocha": "^6.1.4",
     "nyc": "^14.1.1",
     "should": "^13.2.3"
