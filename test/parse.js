@@ -7,7 +7,9 @@ var parser = require("../src/index");
 
 describe('parser()', function() {
   it('Have to give 2 entity', () => {
-    parser("Hi ${users.name}! How is the ${users.guest}")
+    parser.parse("Hi ${users.name}! How is the ${users.guest}",{
+      prefix:"$"
+    })
     .then((entity) => {
       entity.length.should.be.exactly(2)
     }).catch(function(){})
