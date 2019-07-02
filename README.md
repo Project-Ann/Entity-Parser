@@ -1,4 +1,6 @@
 # Entity-Parser
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FProject-Ann%2FEntity-Parser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FProject-Ann%2FEntity-Parser?ref=badge_shield)
+
 Entity parser for DialogEngine
 
 # Parsing texts
@@ -44,3 +46,7 @@ parse("Hi ${users.name}! How is the ${users.guest && user.friend}, Today is a ${
 $ npm test
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FProject-Ann%2FEntity-Parser.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FProject-Ann%2FEntity-Parser?ref=badge_large)
