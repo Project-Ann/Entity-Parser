@@ -1,6 +1,4 @@
 /*jshint node:true, mocha:true */
-
-'use strict';
 var assert = require('assert');
 require('should');
 var parser = require("../src/index");
