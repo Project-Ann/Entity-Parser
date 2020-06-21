@@ -1,4 +1,4 @@
-# Entity-Parser
+# Entity-Parser DEPRECATED
 Entity parser for DialogEngine
 
 [![Build Status](https://travis-ci.org/Project-Ann/Entity-Parser.svg?branch=master)](https://travis-ci.org/Project-Ann/Entity-Parser) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-Ann%2FEntity-Parser.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-Ann%2FEntity-Parser?ref=badge_shield)
